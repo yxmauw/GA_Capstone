@@ -6,3 +6,5 @@ Fundus scans sourced from [Kaggle](https://www.kaggle.com/datasets/sshikamaru/gl
 * Base Model [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yxmauw/GA_Capstone/blob/main/Base_model.ipynb)
 
 * ResNet [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yxmauw/GA_Capstone/blob/main/ResNet.ipynb)
+
+* UNet [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yxmauw/GA_Capstone/blob/main/UNet.ipynb)
